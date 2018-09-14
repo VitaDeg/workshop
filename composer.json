@@ -1,6 +1,6 @@
 {
-    "name": "buonzz/composer-library-template",
-    "description": "Boilerplate package for creating other packages.",
+    "name": "work/composer-library",
+    "description": "Test packages.",
     "keywords": ["template", "composer", "package"],
     "license": "DBAD",
     "authors": [
